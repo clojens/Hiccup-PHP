@@ -1,0 +1,14 @@
+{
+    name: "stanistan/hiccup-php"
+    description: "Personal fork due to missing composer.json file in original work"
+    license: "MIT"
+    authors: [
+        name: "Stan Rozenraukh"
+        email: "stan@stanistan.com"
+    ]
+    "minimum-stability": "dev"
+    require: {}
+    autoload:
+        "psr-0":
+            "Hiccup": "src/"
+}
